@@ -26,3 +26,5 @@ O projeto contém os seguintes arquivos:
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+<img width="1896" height="912" alt="image" src="https://github.com/user-attachments/assets/53ad3e4f-5759-4864-9144-b80739ac4c8a" />
